@@ -173,16 +173,21 @@
     .container-two {
         width: 100%;
 
-        margin: 10px
+        margin-top: 10px
     }
 
     .container-last {
         width: 100%;
 
-        margin: 10px
+        margin-top: 10px
     }
 
     .circle-one {
+        right: 35%;
+    }
+
+    .circle {
+
         right: 60%;
     }
 }
