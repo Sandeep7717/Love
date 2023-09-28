@@ -1,3 +1,5 @@
+
+
 .mom {
     text-align: center;
     margin: auto;
@@ -122,7 +124,10 @@
     background: pink;
     display: inline-block;
     text-align: center;
+    /* background: url(../img/mom.jpg);
+    background-repeat: no-repeat; */
 }
+
 
 .target {
     width: 20px;
@@ -167,7 +172,18 @@
 #accumulate {
     animation-composition: accumulate;
 }
-
+.my img{
+    width: 180px;
+border-radius: 500px;
+ 
+}
+.my{
+    margin: 50px 10px;
+}
+.all{
+    display: flex;
+    align-items: center;
+}
 @media screen and (max-width:767px) {
     .container {
         width: 100%;
